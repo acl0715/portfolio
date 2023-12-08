@@ -1,25 +1,20 @@
 # Portfolio
 
-- 蝦名 優輝
-- 連絡先 Email [a@a.a](aclzoppi.0715@gmail.com)
+- ゾッピ
+- 連絡先 Email [aclzoppi.0715@gmail.com](mailto:aclzoppi.0715@gmail.com)
 - 専門学校デジタルアーツ東京 ゲームプログラムコース 2025年卒業予定
 
 ## 資格
-- 
 
 ## スキル
 - C#
-  - 利用歴〇年
-  - Visual Studioで独自のツールの作成が可能
+  - 利用歴半年
 - Unity
   - 利用歴半年
   - チーム作品の開発経験あり
 - C/C++
   - 利用歴半年
   - コンソールで簡単なデータ処理プログラムを開発
-- cluster
-  - 利用歴年
-  - ワールド、ギミックの作成
 
 ## 取り組んでいるテーマ
 1. オリジナルゲーム開発
@@ -28,7 +23,15 @@
 
 ## 作品リスト
 
+###即死魔法少女
+
+![](./images/即魔女.webp)
+
+- やくざの弾を避け、やくざを倒すシューティングゲーム。
+
+- 開発環境:Unity2021.3.4f1  
+- 開発期間:2023/9/8 ～ 2023/11/11
 
 
 ## 連絡先
-- E-mail [a@a.a](aclzoppi.0715@gmail.cpm)
+- E-mail [aclzoppi.0715@gmail.com](mailto:aclzoppi.0715@gmail.cpm)
